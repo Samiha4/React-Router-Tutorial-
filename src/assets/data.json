@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": "JOB-001",
+      "title": "Senior Software Engineer",
+      "company": "Tech Innovations Inc.",
+      "salary": "$120,000 - $160,000"
+    },
+    {
+      "id": "JOB-002", 
+      "title": "Marketing Manager",
+      "company": "Global Brands Co.",
+      "salary": "$80,000 - $110,000"
+    },
+    {
+      "id": "JOB-003",
+      "title": "Frontend Developer",
+      "company": "Web Solutions LLC",
+      "salary": "$90,000 - $120,000"
+    }
+  ]
+}
